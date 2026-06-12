@@ -1,4 +1,3 @@
-# Excel-Projects
 # E-Commerce Sales Dashboard
 
 ## Project Overview
