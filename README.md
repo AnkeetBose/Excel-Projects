@@ -6,7 +6,7 @@ Designed an interactive Excel dashboard to analyze sales performance across prod
 ## Business Problem
 An E-Commerce company wanted actionable insights to improve business performance using historical sales data.
 
-### Please download the dataset here : [Data] (https://github.com/AnkeetBose/Excel-Projects/raw/refs/heads/main/E-Commerce%20Dashboard%20dataset.xlsx)
+### Please download the dataset here : [Data](https://github.com/AnkeetBose/Excel-Projects/raw/refs/heads/main/E-Commerce%20Dashboard%20dataset.xlsx)
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
