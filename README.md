@@ -21,6 +21,8 @@ An E-Commerce company wanted actionable insights to improve business performance
 - Product Category Filter (Combo Box)
 - Interactive Reporting
 
+<img width="792" height="468" alt="image" src="https://github.com/user-attachments/assets/794e6930-3598-4071-915a-e03e677fe853" />
+
 ## Key Findings
 - October is the highest-selling month.
 - October is the most profitable month.
